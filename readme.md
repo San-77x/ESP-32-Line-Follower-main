@@ -1,6 +1,6 @@
 # LINE Follower Robot
 
-This is an Arduino-based project for a line follower robot with an 8-sensor array. The robot uses PID control to follow a line on the ground and can make sharp turns when necessary.
+This is an ESP32-based project for a line follower robot with an 8-sensor array. The robot uses PID control to follow a line on the ground and can make sharp turns when necessary.
 
 ## Hardware Requirements
 
